@@ -12,5 +12,11 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "sass": "^1.56.1",
+    "vite-plugin-vuetify": "^1.0.0",
+    "vuetify": "^3.0.1",
+    "@mdi/font": "^7.0.96"
   }
 }
